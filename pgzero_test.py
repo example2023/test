@@ -1,5 +1,5 @@
 import pgzrun
-
+#comment
 WIDTH = 600 # Ширина окна
 HEIGHT = 300 # Высота окна
 
